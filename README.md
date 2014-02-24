@@ -17,7 +17,7 @@ Usage
    	chef.add_recipe "setpath"
    	chef.json = {
      		:setpath => {
-         	:path => "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/zend/bin:/usr/test"
+         		:path => "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/zend/bin:/usr/test"
       	}
     	}
 	end
